@@ -1,8 +1,0 @@
-Dataset for training the model
-Source for training the model has been taken in the kaggle.com for training the model in custom vision azure platform for images. The data for mask and without mask has been inputted equally in form of 1:1 ratio. These datasets satisfy certain kind of constraints divided across classes such as:
-✓ One or more individual in image with or without mask
-✓ One or more individual in image some with mask and some without mask ✓ Mask worn incorrectly
-The above varieties of data in form of image has been used to train the model in custom vision.
-
-The picture represents the repository for the face mask detection containing the dataset. In this dataset there are hundreds of images, but we chose specific images as dataset which satisfies the constraints for the most varieties of dataset to achieve the successful training of the model to predict the source in the live environment with more precise output.
-  
