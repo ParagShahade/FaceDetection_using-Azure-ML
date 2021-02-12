@@ -1,2 +1,2 @@
-# FaceDetection_using-Azure-ML
+# FaceDetection_using-Azure-Machine Learning
 A machine learning model that predicts the individuals faces using the trained model and define the status of the individual whether person is wearing the mask or not. The model is trained with custom vision in Azure platform with the dataset splitted with mask or without mask by identifying the faces in the images during the training. With the published model in form of API we used it to detect the persons in the image extracted from the video to find whether wear the mask or not to tackle the pandemic situations during COVID-19.
